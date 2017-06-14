@@ -2,6 +2,6 @@ deb http://archive.ubuntu.com/ubuntu trusty main
 deb http://archive.ubuntu.com/ubuntu trusty-security main
 deb http://archive.ubuntu.com/ubuntu trusty-updates main
 deb http://archive.ubuntu.com/ubuntu trusty universe
-deb http://download.mono-project.com/repo/debian wheezy main
-deb http://download.mono-project.com/repo/debian wheezy-libjpeg62-compat main
-deb http://httpredir.debian.org/debian jessie main
+deb http://download.mono-project.com/repo/debian/dists/wheezy/ main
+deb http://download.mono-project.com/repo/debian/dists/wheezy-libjpeg62-compat main
+deb http://cdn-fastly.deb.debian.org/debian stable main
